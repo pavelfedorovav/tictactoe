@@ -1,3 +1,5 @@
+My discord is sooravk (old discord is sooravk#1083)
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
